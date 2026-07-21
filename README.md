@@ -239,26 +239,6 @@ Business Insights
 
 ---
 
-# ▶️ How to Run the Project
-
-1. Clone the repository
-
-```bash
-git clone https://github.com/singhjagrati307-bee/Supply-Chain-Analytics-Project.git
-```
-
-2. Install dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-3. Open the notebooks in Jupyter.
-
-4. Explore the Power BI dashboard using **Supply_Chain_Dashboard.pbix**.
-
----
-
 # 👩‍💻 Author
 
 **Jagrati Singh**
